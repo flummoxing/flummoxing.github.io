@@ -3,7 +3,7 @@ var bases = ["White toast", "Omelette", "Scrambled eggs", "Cereal",
               "Grits", "White rice", "Brown rice", "Whole wheat toast",
               "Cinnamon raisin toast", "Everything bagel", "White bagel",
               "Whole wheat bagel", "Onion bagel", "Cinnamon raisin bagel",
-              "English muffin", "Salad"];
+              "English muffin", "Salad", "Cream of wheat", "Weetabix"];
 
 var toppings = ["cream cheese", "ham", "a fried egg", "bacon", "avocado", "kimchi",
                 "cinnamon", "raspberry jam", "orange marmalade", "grape jelly",
