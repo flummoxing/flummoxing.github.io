@@ -1,5 +1,4 @@
-
-console.log("hi");
+// Carousel Code for the Homepage
 let slideIndex = 0;
 
 document.addEventListener("DOMContentLoaded", carousel());
